@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  max-width: 26rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container {
+  background-color: black;
+}
+
+.city {
+  background-color: gray;
+  width: 600px;
+  height: 600px;
+  display: inline-flex;
+  margin: 50px;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  margin: 15px;
+}
+
